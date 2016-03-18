@@ -2,6 +2,7 @@ name: Dark Ride
 favicon: null
 layout_spectrum: 0.33173
 typography_spectrum: 0.26429
+title: Dark Ride
 cta:
   domain: null
   bucket: null
