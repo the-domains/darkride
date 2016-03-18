@@ -4,7 +4,7 @@
         <description><![CDATA[Dark Ride]]></description>
         <link>https://thegrid.ai/darkride/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 01:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 01:03:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darkride/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/darkride/hello-world/index.html</link>
             <guid isPermaLink="false">6e4111dc-4ca4-4ad1-b243-0bde1eecedf5</guid>
             <pubDate>Fri, 18 Mar 2016 01:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/321cf999-20ab-4b97-8b79-632af5d3fcd9.jpg">]]></description>
+            <link>https://thegrid.ai/darkride/fcb063dd-5bf9-4065-84e0-4c443d74a05c/index.html</link>
+            <guid isPermaLink="false">fcb063dd-5bf9-4065-84e0-4c443d74a05c</guid>
+            <pubDate>Fri, 18 Mar 2016 01:03:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
