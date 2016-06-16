@@ -1,6 +1,6 @@
 name: Dark Ride
 favicon: null
-layout_spectrum: 0.74112
+layout_spectrum: 0
 typography_spectrum: 0.66525
 title: Dark Ride
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#2b2b2b'
-    - '#7d7d7d'
-    - '#aaaaaa'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0.5625
+    - '#101b2d'
+    - '#385e9f'
+    - '#73cade'
+    - '#6191a7'
+    - '#fcfeff'
+  brandStrength: 0.9375
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.75
 purpose: []
